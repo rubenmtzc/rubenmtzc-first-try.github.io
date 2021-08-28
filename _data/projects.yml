@@ -1,4 +1,9 @@
-- title: Task Tracker
-  event: MLH Fellowship Pre Fellowship Project
-  date: Summer 2021  - Batch 3.5
+- title: Digital economy
+  event: I study the use of digital technologies for economic and social development
+  # date:
+  page-name: project
+
+- title: Market design
+  event: I am interested in market design applications in financial intermediation
+  # date:
   page-name: project
