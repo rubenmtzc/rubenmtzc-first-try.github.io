@@ -1,10 +1,12 @@
 - course: PhD in Economics
   institute: University of York
-  dates: 2017
   logo: uoy-logo.png
   
 - course: MA in Economics and Public Policy
   institute: ITESM
-  dates: 2011
   logo: itesm_logo.svg
+  
+- course: BA in Economics
+  institute: Universidad Autonoma de Nuevo Leon
+  logo: uanl_logo.png
   
